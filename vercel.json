@@ -1,0 +1,5 @@
+{
+  "rewrites": [
+    { "source": "/(.*)", "destination": "/roleta-analyzer.html" }
+  ]
+}
