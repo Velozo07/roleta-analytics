@@ -1,0 +1,6 @@
+{
+  "rewrites": [
+    { "source": "/ws-proxy", "destination": "/api/ws-proxy" },
+    { "source": "/(.*)", "destination": "/roleta-analyzer.html" }
+  ]
+}
